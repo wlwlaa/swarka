@@ -10,7 +10,7 @@
 ## Установка
 
 1. Клонируйте репозиторий
-2. В папку загрузите модель https://drive.google.com/file/d/1ruImHNwJhgV5zwRbtdA7Nixrz5WVeaic/view?usp=drive_link
+2. Перейдите в папку с файлами и загрузите туда [модель](https://drive.google.com/file/d/1ruImHNwJhgV5zwRbtdA7Nixrz5WVeaic/view?usp=drive_link)
 3. Откройте блокнот `solution1.ipynb` и выполняйте ячейки по очереди
 
 
